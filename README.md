@@ -1,4 +1,4 @@
-# After running this application you are presented with the available list of tasks.
+After running this application you are presented with the available list of tasks.
 Press the create new task button to create a task.
 Press the pencil like icon to edit the task.
 Press the trashcan like icon to delete a task.
